@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2634
     wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40699#A-Childhood-in-Brittany-Eighty-Years-Ago
 gutenberg_issued: '2012-09-09'
 gutenberg_type: Text
 identifiers:
